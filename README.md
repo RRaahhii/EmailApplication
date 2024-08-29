@@ -1,1 +1,1 @@
-# EmailApplication
+This is a Java based Project! I coded this project, essentially as an in class project, that my teacher approved of. I decided to do a very basic, barebones onboarding simulation of an employee at a department store. The goal of this project is to demonstrate understanding of how to code in Java, and the basics of object oriented programming language. I created the object "Email" and used a main runner class to run the object and its properties such as firstName, lastName, password, department, etc. 
